@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "perf/bound-commitment-capacity-scan"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "perf/bound-commitment-capacity-scan": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "perf/bound-commitment-capacity-scan"
+  ]
+}
